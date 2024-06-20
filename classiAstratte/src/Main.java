@@ -7,7 +7,7 @@ public class Main {
 
         Rettangolo rettangolo = new Rettangolo(3,10);
         rettangolo.calcolaArea();
-        //System.out.println(rettangolo.calcolaArea());
+        System.out.println(rettangolo.calcolaArea());
 
 
         Triangolo triangolo = new Triangolo(4, 9);
